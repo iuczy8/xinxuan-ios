@@ -1,38 +1,35 @@
 ---
-title: Hello World
+title: iOSGift - 每日iOS限免软件精选站
+date: 2026-03-17
+tags:
+  - iOS
+  - 限免软件
+  - 应用分享
+categories:
+  - 站点介绍
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# iOSGift - 每日iOS限免软件精选站
+**官方站点**：[www.iosgift.com](https://www.iosgift.com)
 
-### Create a new post
+![iOSGift网站封面](https://picsum.photos/1200/600?ios&gift&app)
 
-``` bash
-$ hexo new "My New Post"
-```
+## 站点简介
+本网站最初因公众号内容长效备份的需求搭建，在优化过程中聚焦iOS用户核心需求，最终打造为专注于iOS平台限免软件的垂直分享站点。我们致力于为苹果设备用户挖掘高价值免费应用资源，帮助用户节省应用购买成本，高效发现优质实用工具。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 核心内容
+站点每日持续更新iOS端限免软件资讯，覆盖两大核心类型：
+- **应用本体限免**：付费应用限时免费下载，下载后永久保留
+- **付费内购限免**：应用内付费功能/项目限时免费解锁
 
-### Run server
+所有分享内容均经过人工筛选，剔除低质、广告泛滥的应用，只保留真正具备使用价值的限免资源，让用户无需耗费时间在海量信息中甄别，一键获取精准的iOS限免福利。
 
-``` bash
-$ hexo server
-```
+## 特色优势
+- **实时更新**：跟踪App Store限免动态，第一时间更新资源信息
+- **精准标注**：清晰标注限免时效、应用功能亮点及适用场景，帮助快速判断需求匹配度
+- **轻量化访问**：基于Hexo框架搭建，页面加载快，无冗余广告干扰
 
-More info: [Server](https://hexo.io/docs/server.html)
+## 建站参考
+本站基于Hexo框架开发，同款网站搭建教程可参考：[https://www.uczyw.cn/23857.html](https://www.uczyw.cn/23857.html)，零基础也能快速搭建属于自己的静态站点。
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+关注iOSGift，每日解锁iOS限免新惊喜，让优质应用触手可及！
