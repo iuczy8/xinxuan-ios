@@ -17,7 +17,8 @@ layout: about
 如果你是优秀的独立开发者，希望在这里推荐你的 iOS 作品，可以通过发送邮件的方式联系我，不要忘记在邮件中附带你的软件链接与内购兑换码。
 
 1.✉️ 商务合作 / 软件自荐：uczywcom@gmail.com
-2.✈️ 官方 Telegram 群组：[点击加入](https://t.me/uczyw)
+2.✈️ 官方 Telegram 群组：[点击加入](https://t.me/uappstore)
+3. 推特：[#uczyw](https://x.com/uczyw)
 
 ## 赞赏与支持
 
